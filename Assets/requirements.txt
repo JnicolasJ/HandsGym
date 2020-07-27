@@ -1,0 +1,9 @@
+numpy 1.14.0
+websocket-client 0.44.0
+Tensorflow
+OpenCV 2.3
+Agoria.io
+Photon3
+TeshMesh Unity
+
+
